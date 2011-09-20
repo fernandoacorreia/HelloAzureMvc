@@ -3,6 +3,8 @@ HelloAzureMvc
 
 Sample Windows Azure application.
 
+See http://www.microsoft.com/windowsazure/learn/tutorials/getting-started-web-tutorial
+
 Dependencies
 ------------
 * Visual Studio 2010
