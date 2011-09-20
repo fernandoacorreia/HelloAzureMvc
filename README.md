@@ -1,7 +1,7 @@
 HelloAzureMvc
 =============
 
-Sample Azure application.
+Sample Windows Azure application.
 
 Dependencies
 ------------
